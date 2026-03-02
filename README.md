@@ -19,6 +19,12 @@ O projeto simula um pequeno catálogo de produtos, exibindo:
 - Preço formatado em Real (BRL)
 - Status de disponibilidade
 
+## 🛠 Tecnologias utilizadas
+
+- Node.js
+- TypeScript
+- Git
+
 ## 🚀 Como executar o projeto
 
 1. Instalar dependências:
